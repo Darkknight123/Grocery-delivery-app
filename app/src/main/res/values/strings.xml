@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">DashFoods</string>
+    <string name="loadPage" translatable="false">Loadpage</string>
+    <string name="your_number_one_app" translatable="false">Your number one app</string>
+    <string name="logo" translatable="false">logo</string>
+    <string name="welcome_back" translatable="false">Welcome Back</string>
+    <string name="sign_in_to_continue" translatable="false">sign in to continue</string>
+    <string name="username" translatable="false">username</string>
+    <string name="password" translatable="false">password</string>
+    <string name="forget_password" translatable="false">forget_password</string>
+    <string name="go" translatable="false">go</string>
+    <string name="example_gmail_com">example_gmail_com</string>
+    <string name="phone_number">phone_number</string>
+    <string name="whitespace">whitespace</string>
+    <string name="person">person</string>
+    <string name="notification">notification</string>
+    <string name="hello">Hello</string>
+    <string name="fresh">Fresh!</string>
+    <string name="search">search</string>
+    <string name="item">Item</string>
+    <string name="tomato">Tomato</string>
+    <string name="confirm_order">confirm orer</string>
+    <string name="ksh">Ksh.</string>
+    <string name="_200">200</string>
+    <string name="ordered">ordered</string>
+    <string name="_1">1</string>
+    <string name="add">add</string>
+    <string name="values">[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+</string>
+</resources>

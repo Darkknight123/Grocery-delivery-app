@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355597956755",
+    "project_id": "dashfoods-d276b",
+    "storage_bucket": "dashfoods-d276b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355597956755:android:4dcdfd8dafbf5246e4ff66",
+        "android_client_info": {
+          "package_name": "com.example.dashfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355597956755-5or9np7hfk0qsetbvknucs69178apksi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjeN3K0Pz5vFzQ6T0bI9HFrmiIAKd29pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355597956755-5or9np7hfk0qsetbvknucs69178apksi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
