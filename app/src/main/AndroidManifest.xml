@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.dashfoods">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+
 
     <application
         android:allowBackup="true"
@@ -11,7 +16,8 @@
         android:theme="@style/Theme.DashFoods">
         <activity android:name=".confirmOrder"></activity>
         <activity android:name=".HomePage" />
-        <activity android:name=".SignUp" />
+        <activity android:name=".SignUp"
+            tools:ignore="Instantiatable" />
         <activity android:name=".Recover" />
         <activity android:name=".LoginPage" />
         <activity android:name=".MainActivity">
